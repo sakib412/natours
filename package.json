@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "compile": "node-sass sass/main.scss css/style.css -w",
-    "live":"live-server"
+    "live": "live-server"
   },
   "author": "Najmus Sakib",
   "license": "ISC",
